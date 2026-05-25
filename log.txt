@@ -1,5 +1,0 @@
-Alice: 80
-Bob: ignore_this
-Charlie: 95
-Invalid_User: error
-Eve: 100
